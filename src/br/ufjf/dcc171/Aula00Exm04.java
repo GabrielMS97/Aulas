@@ -12,6 +12,6 @@ public class Aula00Exm04 {
         System.out.println("Digite um ano de nascimento:");
         p1.setAnoNascimento(entrada.nextInt());
         System.out.println(p1);
-        
+
     }
 }
